@@ -6,7 +6,7 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>Mukesh Murugan</Authors>
     <Company>aspnetcorehero</Company>
-    <Product>AspNetCoreHero.ThrowR</Product>
+    <Product>AspNetCoreHero.Results</Product>
     <Description>Collection of Common Result Classes to improve code reusability within projects.</Description>
     <Copyright>2020</Copyright>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
