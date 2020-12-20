@@ -16,6 +16,7 @@ namespace AspNetCoreHero.Results
         {
             Data = data;
             Page = page;
+            Succeeded = succeeded;
             TotalPages = (int)Math.Ceiling(count / (double)pageSize);
             TotalCount = count;
         }
